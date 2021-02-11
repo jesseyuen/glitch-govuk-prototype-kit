@@ -16,7 +16,7 @@ This template is intended to support runnig the [GOVUK Prototyping Kit](https://
 1. Click 'Run' and let repl.it install a bunch of things. This will take a few minutes 
 2. Pay attention to the Console window. You will know that the installation is nearly finished if it asks you *"Do you give permission for the kit to send anonymous usage data? (y/N)"*
 3. Type *y* or *n* and press enter and wait for it to finish building your prototype
-4. You will know if the setup is finished if a window showing your prototype appears Yessssssss ✨  
+4. You will know if the setup is finished if a window showing your prototype appears, yessssssss!! ✨  
 3. We recommend you create a username and password for your prototype. Do this by editing the existing .env file. Add the [following code](https://gist.github.com/jesseyuen/fa7743da8a1e7d3082c6319326744054) to the bottom of your .env file, ensuring to personalise the username and password values
 2. Click 'Run' and see what happens!
 
