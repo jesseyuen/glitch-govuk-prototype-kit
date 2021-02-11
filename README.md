@@ -9,10 +9,11 @@ This template is intended to support runnig the [GOVUK Prototyping Kit](https://
 3. Make a copy of this repo (repl.it-govuk-prototype-kit) by clicking the **Use this template** button
 4. Give your new repo a descriptive name
 5. Open repl.it and create a new repl
-6. Choose 'Import from Github' and select the repo you created at step 3
+6. Choose 'Import from Github' and select the repo you created at step 3 and let repl clone the repo
 
 ## Once the project has been added to repl.it
 
+1. Click 'Run' and let repl.it install a bunch of things. This may take a few minutes. You will know it's finished 
 1. Create a username and password for your prototype by editing the existing .env file. Add the [following code](https://gist.github.com/jesseyuen/fa7743da8a1e7d3082c6319326744054), ensuring to personalise the username and password values
 2. Click 'Run' and see what happens!
 
