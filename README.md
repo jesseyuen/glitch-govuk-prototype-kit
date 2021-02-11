@@ -15,12 +15,12 @@ This template is intended to support runnig the [GOVUK Prototyping Kit](https://
 1. Create a username and password for your prototype by editing the existing .env file. Add the [following code](https://gist.github.com/jesseyuen/fa7743da8a1e7d3082c6319326744054), ensuring to personalise the username and password values. 
 2. Click 'Run' and see what happens!
 
-## Once it's running
+## Once the project is running
 
 1. You can skip past the [Prototype ki install docs](https://govuk-prototype-kit.herokuapp.com/docs/install), repli.t has done this for you.
 2. Get started by learning how to [Build a basic prototype](https://govuk-prototype-kit.herokuapp.com/docs/make-first-prototype/start)
 
-## Once you've made changes to files
+## Once you've made changes to your project
 
-1. Commit and push your work back to your GitHub repo.
+1. If you're happy with the changes, commit and push your work back to your GitHub repo
 
