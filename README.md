@@ -17,8 +17,8 @@ This template is intended to support runnig the [GOVUK Prototyping Kit](https://
 
 ## Once the project is running
 
-1. You can skip past the [Prototype ki install docs](https://govuk-prototype-kit.herokuapp.com/docs/install), repli.t has done this for you.
-2. Get started by learning how to [Build a basic prototype](https://govuk-prototype-kit.herokuapp.com/docs/make-first-prototype/start)
+1. You can skip past the [Prototype kit install docs](https://govuk-prototype-kit.herokuapp.com/docs/install), repli.t has done this for you.
+2. Start learning how to [Build a basic prototype](https://govuk-prototype-kit.herokuapp.com/docs/make-first-prototype/start)
 
 ## Once you've made changes to your project
 
