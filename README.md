@@ -22,5 +22,4 @@ This template is intended to support runnig the [GOVUK Prototyping Kit](https://
 
 ## Once you've made changes to your project
 
-1. If you're happy with the changes, commit and push your work back to your GitHub repo
-
+1. If you're happy with your changes, commit and push your work back to your GitHub repo using the repl.it *Version Control* feature in repl.it
