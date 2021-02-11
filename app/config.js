@@ -23,7 +23,7 @@ module.exports = {
   useDocumentation: 'true',
 
   // Force HTTP to redirect to HTTPS on production
-  // This is new!!
+  // This needs to be set to 'false' for repl.it
   useHttps: 'false',
 
   // Cookie warning - update link to service's cookie page.
