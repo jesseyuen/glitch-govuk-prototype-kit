@@ -15,7 +15,7 @@ This template is intended to support runnig the [GOVUK Prototyping Kit](https://
 
 1. Click 'Run' and let repl.it install a bunch of things. This will take a few minutes. 
 
-If you get an error like this: `ERROR: Node module folder missing. Try running npm install`, then type `npm install` into the Consle window and press enter.
+If you this error: `ERROR: Node module folder missing. Try running npm install`, then type `npm install` into the Consle window and press enter.
  
 2. Pay attention to the Console window. You will know that the installation is nearly finished if it asks you *"Do you give permission for the kit to send anonymous usage data? (y/N)"*
 3. Type *y* or *n* and press enter and wait for it to finish building your prototype
