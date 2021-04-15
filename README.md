@@ -11,9 +11,9 @@ This template is intended to support runnig the [GOVUK Prototyping Kit](https://
 5. Open repl.it and create a new repl
 6. Choose 'Import from Github' and select the repo you created at step 3 and let repl clone the repo
 
-## Once the project has been added to repl.it
+## Once the project has been added to repl.it we need to set it up
 
-1. Click 'Run' and let repl.it install a bunch of things. This will take a few minutes. 
+1. Click 'Run' at the top of the page and let repl.it install a bunch of things. This will take a few minutes. 
 
 If you this error: `ERROR: Node module folder missing. Try running npm install`, then type `npm install` into the Consle window and press enter.
  
