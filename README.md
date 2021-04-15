@@ -6,7 +6,7 @@ This template is intended to support runnig the [GOVUK Prototyping Kit](https://
 
 1. Ensure you have a [GitHub](https://github.com/) account
 2. Create a free [repl.it](https://repl.it/) account and connect it to your GitHub account
-3. Make a copy of this repo (repl.it-govuk-prototype-kit) by clicking the **Use this template** button
+3. Make a copy of this repo (repl.it-govuk-prototype-kit) by clicking the **Use this template** button at the top of the page
 4. Give your new repo a descriptive name
 5. Open repl.it and create a new repl
 6. Choose 'Import from Github' and select the repo you created at step 3 and let repl clone the repo
