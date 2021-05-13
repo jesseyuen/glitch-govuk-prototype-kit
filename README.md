@@ -31,3 +31,9 @@ If you this error: `ERROR: Node module folder missing. Try running npm install`,
 
 1. If you're happy with your changes, commit and push your work back to your GitHub repo using the repl.it *Version Control* feature in repl.it
 2. You're off and away!
+
+----
+
+## Things to be aware of
+
+The prototype kit docs refer to `localhost` urls. Repl.it uses it's own url structure so whenever you read `localhost/blah` in the docs you need to think `repl.it-url/blah`. 
