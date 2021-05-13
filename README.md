@@ -19,7 +19,7 @@ If you this error: `ERROR: Node module folder missing. Try running npm install`,
  
 2. Pay attention to the Console window. You will know that the installation is nearly finished if it asks you *"Do you give permission for the kit to send anonymous usage data? (y/N)"*
 3. Type *y* or *n* and press enter and wait for it to finish building your prototype
-4. You will know if the setup is finished if a window showing your prototype appears, yessssssss!! ✨  
+4. You will know if the setup is finished when a window showing your prototype appears, yessssssss!! ✨  
 5. We recommend you create a username and password for your prototype. Do this by editing the existing .env file. Add the [following code](https://gist.github.com/jesseyuen/fa7743da8a1e7d3082c6319326744054) to the bottom of your .env file, ensuring to personalise the username and password values
 
 ## Once the project is running
